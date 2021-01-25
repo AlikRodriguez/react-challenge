@@ -1,0 +1,40 @@
+.poke-card {
+    background-color: white;
+    display: inline-block;
+    padding: 20px 5px;
+    border-radius: 8px;
+    box-shadow: 1px 0 5px 0 #dedede;
+}
+
+.pokemon-name {
+    font-size: 1.8em;
+    color: steelblue;
+}
+
+.pokemon-footer {
+    padding: 10px 0;
+}
+
+.pokemon-video {
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px 0 #dedede;
+}
+
+.pokemon-video:hover {
+    box-shadow: 2px 2px 4px 0 #d0d0d0;
+    
+}
+
+.pokemon-images {
+    margin: 50px 15px;
+}
+
+.pokemon-images img {
+    height: 150px;
+    margin: 5px;
+    box-shadow: 0 0 2px 0 #ddd;
+}
