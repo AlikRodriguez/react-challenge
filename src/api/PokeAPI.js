@@ -1,6 +1,6 @@
 
 import { mockPokemonData } from '../mock/pokeData';
 
-export const getData = () => {
+export const getPokemon = () => {
     return Promise.resolve( mockPokemonData );
 }
